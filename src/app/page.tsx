@@ -383,7 +383,7 @@ export default function Home() {
                 className="group relative px-8 py-4 border-2 border-blue-400 rounded-full font-semibold text-blue-600 hover:bg-blue-50 transition-all duration-300 hover:scale-105 hover:border-blue-500"
               >
                 <span className="flex items-center gap-2">
-                  LET'S CONNECT
+                  LET&apos;S CONNECT
                   <div className="w-2 h-2 bg-blue-500 rounded-full animate-pulse" />
                 </span>
               </button>
@@ -470,12 +470,12 @@ export default function Home() {
                       <span className="text-purple-600">const</span> <span className="text-blue-600">developer</span> = {'{'}
                     </p>
                     <div className="pl-4">
-                      <p><span className="text-orange-600">name</span>: <span className="text-green-600">'Abdul Muqsit'</span>,</p>
-                      <p><span className="text-orange-600">location</span>: <span className="text-green-600">'Islamabad, Pakistan'</span>,</p>
-                      <p><span className="text-orange-600">role</span>: <span className="text-green-600">'Software Engineer (Web & Mobile)'</span>,</p>
+                      <p><span className="text-orange-600">name</span>: <span className="text-green-600">&apos;Abdul Muqsit&apos;</span>,</p>
+                      <p><span className="text-orange-600">location</span>: <span className="text-green-600">&apos;Islamabad, Pakistan&apos;</span>,</p>
+                      <p><span className="text-orange-600">role</span>: <span className="text-green-600">&apos;Software Engineer (Web &amp; Mobile)&apos;</span>,</p>
                       <p><span className="text-orange-600">experience</span>: <span className="text-blue-600">1</span>,</p>
-                      <p><span className="text-orange-600">email</span>: <span className="text-green-600">'Amuqsit57@gmail.com'</span>,</p>
-                      <p><span className="text-orange-600">education</span>: <span className="text-green-600">'COMSATS University (3.91 CGPA)'</span></p>
+                      <p><span className="text-orange-600">email</span>: <span className="text-green-600">&apos;Amuqsit57@gmail.com&apos;</span>,</p>
+                      <p><span className="text-orange-600">education</span>: <span className="text-green-600">&apos;COMSATS University (3.91 CGPA)&apos;</span></p>
                     </div>
                     <p>{'};'}</p>
                     

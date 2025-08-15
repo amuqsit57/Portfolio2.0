@@ -4,7 +4,7 @@ export default function About() {
       <section className="max-w-2xl w-full py-24 px-6 mx-auto animate-fadein">
         <h1 className="text-4xl md:text-5xl font-bold mb-8 tracking-tight">About Me</h1>
         <p className="text-lg md:text-xl text-gray-300 mb-8">
-          Hi, I'm Amuqsit, a passionate Full Stack Developer specializing in modern web technologies. I create scalable, high-performance applications for clients worldwide.
+          Hi, I&apos;m Amuqsit, a passionate Full Stack Developer specializing in modern web technologies. I create scalable, high-performance applications for clients worldwide.
         </p>
         <div className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">Skills</h2>
